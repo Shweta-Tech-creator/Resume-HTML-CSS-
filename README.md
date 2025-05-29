@@ -15,5 +15,5 @@ This project does not use any JavaScript or frameworks, keeping it lightweight a
 
 💻 How to Use
 Clone the repository
-git clone https://github.com/your-username/html-css-resume.git
+git clone https://github.com/Shweta-Tech-creator/Resume-HTML-CSS-.git
 
